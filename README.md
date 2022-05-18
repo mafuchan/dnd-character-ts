@@ -1,6 +1,3 @@
-I really liked this one. Anything else like this?
-
-
 # Description
 
 For a game of [Dungeons & Dragons][dnd], each player starts by generating a
